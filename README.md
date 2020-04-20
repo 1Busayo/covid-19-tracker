@@ -1,6 +1,6 @@
 ## Demo Link : http://covid-19-tracker.wellsoft.co/
 
-This project was built with [Create React App](https://github.com/facebook/create-react-app).
+This project was built with [React JS](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
